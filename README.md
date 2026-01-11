@@ -9,7 +9,7 @@ This project is part of a broader body of work exploring **AI system behavior, f
 
 ---
 
-## ⭐ Support the Project
+## ⭐ Support the Product
 
 If you find this project useful or thought-provoking, consider **starring the repository** ⭐  
 It helps surface system-level GenAI work to a broader audience.
