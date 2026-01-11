@@ -48,7 +48,7 @@ PromptOps makes these behavioral regressions **explicit, testable, and reviewabl
 
 ---
 
-## What This Project Demonstrates
+## What This Product Demonstrates
 
 - How to evaluate **prompt behavior**, not just output correctness  
 - How to compare prompt versions across models  
