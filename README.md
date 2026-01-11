@@ -10,8 +10,7 @@ Rather than optimizing prompts, this project focuses on:
 - Governance and safety
 
 ## Live System
-[![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow)](https://huggingface.co/spaces/AditiShashiKhare/promptops-demo)
-
+👉 **[Live Demo on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/promptops-demo)**
 
 ## Why Hugging Face First?
 This project is intentionally hosted on Hugging Face to:
