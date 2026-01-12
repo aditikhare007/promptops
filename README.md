@@ -7,6 +7,7 @@ Writing on AI research, product thinking, and system architecture
 🔗 **GitHub Repository:** [PromptOps](https://github.com/aditikhare007/promptops)  
 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/promptops/)  
 💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+
 ---
 
 ## ⭐ Support the Product
@@ -23,23 +24,26 @@ It helps surface system-level GenAI work to a broader audience.
 > *Prompt changes silently alter model behavior — without visibility, tests, or governance.*
 
 Rather than focusing on prompt optimization or prompt-engineering techniques, PromptOps treats prompts as **first-class system artifacts** that require:
+
 - Versioning  
 - Behavioral regression testing  
 - Observability and accountability  
 
-This project reframes prompts as **governed interfaces** between humans and models — similar to APIs, schemas, or contracts in traditional software systems.
+This project reframes prompts as **governed interfaces** between humans and models—similar to APIs, schemas, or contracts in traditional software systems.
 
 ---
 
 ## Why This Exists
 
 In production GenAI systems, even small prompt edits can introduce:
+
 - Tone drift  
 - Instruction loss  
 - Inconsistent refusals  
 - Increased hallucination risk  
 
 These failures are often:
+
 - Silent  
 - Undetected by metrics  
 - Discovered only after deployment  
@@ -56,6 +60,7 @@ PromptOps makes these behavioral regressions **explicit, testable, and reviewabl
 - How to think about GenAI systems through a **governance and platform lens**
 
 This is intentionally **not**:
+
 - A chatbot  
 - A prompt playground  
 - A benchmark leaderboard  
@@ -75,6 +80,7 @@ The demo runs a fixed baseline and candidate prompt and highlights behavioral re
 PromptOps focuses on **behavioral stability**, not model accuracy.
 
 Key signals include:
+
 - Tone and style drift  
 - Instruction adherence  
 - Refusal consistency  
@@ -100,6 +106,7 @@ This workflow mirrors how production teams reason about **change management** in
 PromptOps is a **systems-thinking artifact**, not a production SDK.
 
 Its purpose is to:
+
 - Expose GenAI failure modes  
 - Encourage disciplined prompt change management  
 - Support discussions around LLM governance at scale  
@@ -120,6 +127,7 @@ Implementation choices are intentionally opinionated and minimal.
 ## License
 
 © 2026 **Aditi Khare**. All rights reserved.
+
 ---
 
 *PromptOps is part of an ongoing exploration into how generative AI systems behave, fail, and evolve once deployed into real products.*
