@@ -1,12 +1,12 @@
-## Author
+## 👩‍💻 Author
 
-**Aditi Khare**  
-Enterprise AI Product & Research Leader focused on designing **scalable, governable, production-grade AI systems**.
+**Aditi Khare — AI Product & Research Leader**  
+Writing on AI research, product thinking, and system architecture
 
-🌐 [aditikhare.com](https://aditikhare.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/aditikhare)
-
-This project is part of a broader body of work exploring **AI system behavior, failure modes, and product architecture**.
-
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 **GitHub Repository:** [PromptOps](https://github.com/aditikhare007/promptops)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/promptops/)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
 ---
 
 ## ⭐ Support the Product
@@ -119,8 +119,7 @@ Implementation choices are intentionally opinionated and minimal.
 
 ## License
 
-MIT License
-
+© 2026 **Aditi Khare**. All rights reserved.
 ---
 
 *PromptOps is part of an ongoing exploration into how generative AI systems behave, fail, and evolve once deployed into real products.*
