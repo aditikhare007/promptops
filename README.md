@@ -1,12 +1,16 @@
 ## 👩‍💻 Author
 
 **Aditi Khare — AI Product & Research Leader**  
-Writing on AI research, product thinking, and system architecture
+
+- Enterprise AI Product, Platform & Applied Research Leader 
+- Writing on AI research, product thinking, and system architecture
+
+## 🌐 Presence 
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
 🔗 **GitHub Repository:** [PromptOps](https://github.com/aditikhare007/promptops)  
 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/promptops/)  
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
 ---
 
